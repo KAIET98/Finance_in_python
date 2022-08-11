@@ -48,6 +48,8 @@ Apartados:
 
 ## 04_GARCH_models
 
+Se recomienda hacer: TIme series analysis: https://app.datacamp.com/learn/courses/time-series-analysis-in-python
+
 
 ### 4_1_GARCH_model_fundamentals
 
