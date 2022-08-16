@@ -11,6 +11,7 @@ Se recomienda realizar:
 2. Manipulating Time Series Data: https://app.datacamp.com/learn/courses/manipulating-time-series-data-in-python
 
 
+
 Apartados: 
 
 ### 1_1_UNivariate_investment_risk_and_returns
