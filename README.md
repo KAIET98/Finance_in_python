@@ -3,6 +3,19 @@ Applied Finance in Python
 
 Es el repositorio para seguir el recorrido del Skill trakc 'Applied finance in python' de Datacamp
 
+
+Para ver que hay dentro de una formula ya hecha: 
+
+```
+
+import inspect 
+
+lines = inspect.getsource(get_power) 
+
+print(lines)
+
+```
+
 ## 01_Introduction_to_portfolio_risk_management
 
 Se recomienda realizar: 
