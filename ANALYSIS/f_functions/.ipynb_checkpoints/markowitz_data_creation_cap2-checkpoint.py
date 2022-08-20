@@ -96,6 +96,14 @@ class cap2_data:
         self.stock_data['Portfolio_GMV'] = self.stock_data.iloc[:, 0:self.numstocks].mul(GMV_weights_array, axis=1).sum(axis=1)
         
         return self.stock_data
+    
+    def RF(self):
+        
+        self.stock_data['RF'] = self.risk_free
+        
+        return self.stock_data
+        
+        
 
         
         
