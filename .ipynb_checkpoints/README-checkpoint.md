@@ -29,9 +29,17 @@ Se recomienda realizar:
 1. Introduction to finantial concepts in python:https://app.datacamp.com/learn/courses/introduction-to-financial-concepts-in-python
 2. Manipulating Time Series Data: https://app.datacamp.com/learn/courses/manipulating-time-series-data-in-python
 
-El resultado de lo aprendido se logra ejecutando el archivo `ETL_finance_data_building.py`.
 
-Si se quiere calcular las medidas de riesgo en cambio ejecutar el archivo: `ETL_risk_measuring.py`. 
+
+Apartados: 
+
+### 1_1_UNivariate_investment_risk_and_returns
+
+### 1_2_Portfolio_investing
+
+### 1_3_Factor_investigation
+
+### 1_4_Value_at_risk
 
 ## 02_Quantitative_risk_management
 
