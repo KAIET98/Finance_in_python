@@ -31,6 +31,8 @@ Se recomienda realizar:
 
 El resultado de lo aprendido se logra ejecutando el archivo `ETL_finance_data_building.py`.
 
+Si se quiere calcular las medidas de riesgo en cambio ejecutar el archivo: `ETL_risk_measuring.py`. 
+
 ## 02_Quantitative_risk_management
 
 Se recomienda realizar: https://app.datacamp.com/learn/courses/introduction-to-portfolio-analysis-in-python
