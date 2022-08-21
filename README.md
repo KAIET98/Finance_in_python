@@ -16,6 +16,12 @@ print(lines)
 
 ```
 
+# Ejecucción
+Se esta implementando todo industrializadamente, para ello, se estan construyendo archivos con el prefijo `ETL_`. Por ejemplo:
+1. `ETL_finance_data_building.py`: contiene información base del temario del tema 1.
+
+# Teoria
+
 ## 01_Introduction_to_portfolio_risk_management
 
 Se recomienda realizar: 
