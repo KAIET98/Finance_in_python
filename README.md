@@ -16,6 +16,22 @@ print(lines)
 
 ```
 
+
+1. Instalar dependencias del requirements.txt. 
+
+```
+pip install -r requirements.txt
+```
+
+2. Clonar el repositorio y lanzar el docker: 
+
+```
+pip install PyPortfolioOpt
+
+
+```
+
+
 # Teoria
 
 ## 01_Introduction_to_portfolio_risk_management
